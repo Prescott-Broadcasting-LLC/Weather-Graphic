@@ -1,0 +1,1 @@
+This is a simple script to grap weather data from OpenWeatherMap and create a helpful graphic.
